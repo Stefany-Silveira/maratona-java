@@ -43,5 +43,13 @@ public class Aula04 {
         System.out.println("isDentroDaLeiMaiorQueTrinta " + isDentroDaLeiMaiorQueTrinta);
         System.out.println("isDentroDaLeiMneorQueTrinta " + isDentroDaLeiMenorQueTrinta );
 
+        // || OR
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorPlaystation = 5000f;
+
+        boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
+        System.out.println("isPlaystationCincoCompravel " + isPlaystationCincoCompravel);
+
     }
 }
