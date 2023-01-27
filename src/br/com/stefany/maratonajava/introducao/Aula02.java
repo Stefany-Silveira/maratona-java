@@ -4,10 +4,10 @@ public class Aula02 {
     public static void main(String[] args) {
 
         //int, double, float, char, byte, short, long, boolean
-        int idade = 10;
-        long numeroGrande = 100000;
-        double salarioDouble = 2000;
-        float salarioFloat = 2500;
+        int idade = (int) 1000000000L;
+        long numeroGrande = (long) 100.23;
+        double salarioDouble = 2000.0d;
+        float salarioFloat = (float) 2500.0d;
         byte idadeByte = -10;
         short idadeShort = 10;
         boolean verdadeiro = true;
@@ -17,5 +17,7 @@ public class Aula02 {
         System.out.println("A idade é: " + idade + " anos");
         System.out.println(falso);
         System.out.println("char " + caractere);
+        System.out.println("char " + caractere);
+        System.out.println(numeroGrande);
     }
 }
