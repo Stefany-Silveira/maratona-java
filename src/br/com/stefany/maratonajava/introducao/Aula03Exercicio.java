@@ -1,6 +1,7 @@
 package br.com.stefany.maratonajava.introducao;
 
-/* Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem:
+/* Tipos primitivos
+Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte mensagem:
 
    Eu <nome>, morando no endereço <endereço>,
    confirmo que recebi o salário de <salario>, na data <data>
