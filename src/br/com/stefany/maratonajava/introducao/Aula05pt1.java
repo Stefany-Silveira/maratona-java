@@ -1,7 +1,7 @@
 package br.com.stefany.maratonajava.introducao;
 
 // Estruturas condicionais
-public class Aula05 {
+public class Aula05pt1 {
 
     public static void main(String[] args) {
 
@@ -10,9 +10,7 @@ public class Aula05 {
 
         if (isAutorizadoComprarBebida) {
             System.out.println("Autorizado a comprar bebida alcoólica");
-        }
-
-        if (!isAutorizadoComprarBebida) {
+        } else {
             System.out.println("Não autorizado a comprar bebida alcoólica");
         }
 
