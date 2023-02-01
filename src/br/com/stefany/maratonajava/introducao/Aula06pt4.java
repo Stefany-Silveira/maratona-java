@@ -1,5 +1,7 @@
 package br.com.stefany.maratonajava.introducao;
 
+//Estrutura de repetição  - Exercício Break
+
 public class Aula06pt4 {
     // Dado o valor de u, carro, descubra em quantas vezes ele pode ser parcelado
     // Condição valorParcela >= 1000
