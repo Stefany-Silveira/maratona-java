@@ -1,5 +1,6 @@
 package br.com.stefany.maratonajava.introducao;
 
+////Estrutura de repetição  - Exercício for
 public class Aula06pt2 {
     //Imprima todos os números pates de 0 até 1000000
     public static void main(String[] args) {
