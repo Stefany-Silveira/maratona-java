@@ -1,5 +1,7 @@
 package br.com.stefany.maratonajava.introducao;
 
+//Estrutura de repetição  - Break
+
 public class Aula06pt3 {
     //Imprima os primeiros 25 números de um dado valor. Por exempli, 50
     public static void main(String[] args) {
