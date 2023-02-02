@@ -10,9 +10,12 @@ public class Aula07pt2 {
     public static void main(String[] args) {
 
         String[] nomes = new String[3];
-        System.out.println(nomes[0]);
-        System.out.println(nomes[1]);
-        System.out.println(nomes[2]);
+        nomes[0] = "Stefany";
+        nomes[1] = "Pedro";
+        nomes[2] = "Vinicius";
 
+        for (int i = 0; i < nomes.length; i++) {
+            System.out.println(nomes[i]);
+        }
     }
 }
